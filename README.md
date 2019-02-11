@@ -1,6 +1,6 @@
 작품이름 : PICKERSCORE
 
-작품 시연 연상 : https://www.youtube.com/watch?v=BzUdrfWs3ms&t=228s
+작품 시연 상 : https://www.youtube.com/watch?v=BzUdrfWs3ms&t=228s
 
 프로젝트 참여자 : 김윤규(1)
 
